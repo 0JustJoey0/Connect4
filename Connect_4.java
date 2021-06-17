@@ -668,6 +668,7 @@ public class Connect_4 {
 		    
 		    
 		    }
+	userinput.close();
 		
 				  
 	
